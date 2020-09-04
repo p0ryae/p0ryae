@@ -1,9 +1,9 @@
-### Hello! I'm DashCruft and I love Programming and Coding! 😮
+## Hey There! 🙂
 
 - 📫 You can reach me VIA my public email or my Discord Server!
 - 😄 You can call me either Porya or Dash!
 - ⚡ Trying my best to Work at NASA 🤞
-
+- 😏 I make youtube videos to help people with coding! We are all learning & I love to help people learn how to code!
 
 <div align="center">
   <a href="https://discord.gg/2RPg23k">
