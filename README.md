@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! I'm DashCruft and I love Programming and Coding! 😮
 
-<!--
-**DashCruft/DashCruft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 You can reach me VIA my public email or my Discord Server!
+- 😄 You can call me either Porya or Dash!
+- ⚡ Trying my best to Work at NASA 🤞
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://discord.gg/2RPg23k">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+  <a href="https://youtube.com/dashcruft">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+  </a>
+</div>
