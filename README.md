@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<p>
+<p><p>
   
 <div align="center">
   <a href="https://discord.gg/2RPg23k">
