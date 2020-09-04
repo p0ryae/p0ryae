@@ -5,9 +5,14 @@
 - ⚡ Trying my best to Work at NASA 🤞
 - 😏 I make youtube videos to help people with coding! We are all learning & I love to help people learn how to code!
 
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula  )](https://github.com/DashCruft/Discord.JS-Coding- Tutorials)
+<div align="center">
+  <a href="https://github.com/DashCruft/Discord.JS-Coding-Tutorials">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.JS-Coding-Tutorials&theme=dracula" alt="Discord" width="400"/>
+  </a>
+  <a href="https://github.com/DashCruft/Discord.js-meme">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.js-meme&theme=dracula" alt="Discord" width="400"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://discord.gg/2RPg23k">
