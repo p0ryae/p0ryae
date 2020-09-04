@@ -1,4 +1,4 @@
-## Hey There! 🙂
+## Hey There!
 
 - 📫 You can reach me VIA my public email or my Discord Server!
 - 😄 You can call me either Porya or Dash!
