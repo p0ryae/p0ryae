@@ -5,7 +5,8 @@
 - ⚡ Trying my best to Work at NASA 🤞
 - 😏 I make youtube videos to help people with coding! We are all learning & I love to help people learn how to code!
 
-![Porya](https://github-readme-stats.vercel.app/api?username=DashCruft&show_icons=true&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight )](https://github.com/DashCruft/Discord.JS-Coding-Tutorials)
+
 
 <div align="center">
   <a href="https://discord.gg/2RPg23k">
