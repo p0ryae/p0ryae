@@ -9,8 +9,8 @@
   <a href="https://github.com/DashCruft/Discord.JS-Coding-Tutorials">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.JS-Coding-Tutorials&theme=dracula" alt="Discord" width="400"/>
   </a>
-  <a href="https://github.com/DashCruft/Discord.js-meme">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.js-meme&theme=dracula" alt="Discord" width="400"/>
+  <a href="https://github.com/DashCruft/Discord.js-custom-prefix">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.js-custom-prefix&theme=dracula" alt="Discord" width="400"/>
   </a>
 </div>
 
