@@ -2,8 +2,8 @@
 
 - 📫 You can reach me VIA my public email or my Discord Server!
 - 😄 You can call me either Porya or Dash!
-- ⚡ Trying my best to Work at NASA 🤞
-- 😏 I make youtube videos to help people with coding! We are all learning & I love to help people learn how to code!
+- ⚡ Trying my best to Work at NASA in nearby future 🤞
+- 😏 I make youtube videos to help people with coding! We are all learning & I love to teach people and solve their issues!
 
 <div align="center">
   <a href="https://github.com/DashCruft/Discord.JS-Coding-Tutorials">
