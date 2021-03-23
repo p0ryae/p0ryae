@@ -4,16 +4,6 @@
 - 😮 You can call me either Porya or Dash!
 - ⚡ Trying my best to Work at NASA in nearby future 🤞
 - 😏 I make youtube videos to help people with coding! We are all learning & I love to teach people and solve their issues!
-
-<div align="center">
-  <a href="https://github.com/DashCruft/Discord.JS-Coding-Tutorials" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.JS-Coding-Tutorials&theme=dracula" alt="Discord" width="400"/>
-  </a>
-  <a href="https://github.com/DashCruft/Discord.js-custom-prefix" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DashCruft&repo=Discord.js-custom-prefix&theme=dracula" alt="Discord" width="400"/>
-  </a>
-</div>
-
 <p><p>
   
 <div align="center">
