@@ -19,8 +19,8 @@
 <img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
 
-### Operating System I Use:
-- Manjaro KDE Plasma (Linux)
+### Operating System:
+- [Manjaro](https://manjaro.org/) KDE Plasma (Linux)
 
 ---
 <div align="center">
