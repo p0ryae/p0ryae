@@ -20,7 +20,7 @@
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
 
 ### Operating System:
-- <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) KDE Plasma (Linux) 
+- <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) KDE Plasma (Linux) (#NoWindowsGang)
 
 ---
 <div align="center">
