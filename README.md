@@ -1,7 +1,7 @@
 ## Hey Fellas!
 
 - 📫 You can reach me VIA my public email or my Discord Server!
-- 😮 You can call me either Porya or Dash!
+- 😮 You can call me Porya or Dash!
 - ⚡ Trying my best to Work as a Computer Scientist at NASA, FBI or CIA in nearby future 🤞
 - 😏 I make youtube videos to help people with coding! We are all learning & I love to teach people and solve their issues!
 <p><p>
