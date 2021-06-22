@@ -1,4 +1,4 @@
-## Hey Fellas!
+## Hey Fortnite Gaymers!
 
 - 📫 You can reach me VIA my public email or my Discord Server!
 - 😮 You can call me Porya or Dash!
