@@ -20,7 +20,8 @@
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
 
 ### Operating System:
-- <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) Gnome (Linux) (#NoWindowsGang)
+- <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) Gnome (Linux)
+- <img alt="C#" width="14px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 11
 
 ---
 <div align="center">
