@@ -19,7 +19,7 @@
 <img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
 
-### Operating System:
+### Operating Systems:
 - <img alt="C#" width="14px" src="https://i.imgur.com/EjHy8p6.png" /> [Manjaro](https://manjaro.org/) Gnome (Linux)
 - <img alt="C#" width="18px" src="https://www.getmyos.com/app_public/files/t/1/2021/06/windows_11_logo_by_getmyos.png" /> Windows 11
 
