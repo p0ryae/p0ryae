@@ -1,4 +1,4 @@
-## Hey Fortnite Gaymers!
+## Welcome to DashCruft's Official Github Page
 
 - 📫 You can reach me VIA my public email or my Discord Server!
 - 😮 You can call me Porya or Dash!
