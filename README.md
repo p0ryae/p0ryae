@@ -20,7 +20,7 @@
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
 
 ### Operating Systems:
-- <img alt="C#" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" /> [Arch Linux](https://archlinux.org/) (KDE Plasma as DE)
+- <img alt="C#" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" /> [Arch Linux](https://archlinux.org/)
 
 ---
 <div align="center">
