@@ -1,12 +1,5 @@
 ## Welcome to DashCruft's Official Github Page
 
-- 📫 You can reach me VIA my public email or my Discord Server!
-- 😮 You can call me Porya or Dash!
-- ⚡ Trying my best to Work as a Computer Scientist at NASA, FBI or CIA in nearby future 🤞
-- 😏 I make youtube videos to help people with coding! We are all learning & I love to teach people and solve their issues!
-<p><p>
-  
- ---
 
 ### Languages and Tools:
 
@@ -19,7 +12,7 @@
 <img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
 
-### Operating Systems:
+### Operating System:
 - <img alt="C#" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" /> [Arch Linux](https://archlinux.org/)
 
 ---
