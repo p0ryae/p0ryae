@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋</h1>
 <h3 align="center">I'm Porya, a Full Stack Web Developer</h3>
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" style alt="Visual Studio Code" width="30px" src="https://i.imgur.com/LwSdAlE.png" />
