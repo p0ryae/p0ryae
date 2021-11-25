@@ -1,5 +1,7 @@
-<h2 align="center">Hi 👋</h1>
+<h2 align="center">Hi 👋</h2>
 <h3 align="center">I'm Porya, a Full Stack Web Developer</h3>
+
+<br />
 
 ### Languages and Tools:
 
