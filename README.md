@@ -1,5 +1,5 @@
 <br />
-<h3 align="center">I'm Porya, a Full Stack Web Developer<br /></h3>
+<h3 align="center">I'm Porya, a Full Stack Web Developer.<br /></h3>
 
 <br />
 
