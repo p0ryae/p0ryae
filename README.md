@@ -1,4 +1,5 @@
-<h3 align="center">Hi 👋<br /> I'm Porya, a Full Stack Web Developer<br /></h3>
+<br />
+<h3 align="center">I'm Porya, a Full Stack Web Developer<br /></h3>
 
 <br />
 
