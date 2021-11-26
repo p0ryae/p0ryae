@@ -1,5 +1,3 @@
-<br />
-
 ## Hi, I'm Porya 👋
 
 ### Some of my Hightlights:
