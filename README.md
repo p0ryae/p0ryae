@@ -3,7 +3,7 @@
 
 <br />
 
-### Languages and Tools:
+**Languages and Tools:**
 
 <img align="left" style alt="Visual Studio Code" width="30px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
@@ -16,6 +16,6 @@
 
 <br />
 
-### Operating System:
+O**perating System:**
 - <img alt="C#" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" /> [Arch Linux](https://archlinux.org/)
 <br /><br />
