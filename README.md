@@ -3,8 +3,7 @@
 ### Some of my Hightlights:
 
 - Computer Scientist
-- Linux Mastery, Server Management and Security Certification
-- GPU Passthrough on Linux
 - Full Stack Web Developer
-- Founder of Lazap, A cross-platform Games Launcher
-- I own a YouTube channel with 5k subs and 1m views in total 
+- Linux Mastery, Server Management and Security Certification
+- Succession with GPU Passthrough (recent highlight)
+- Founder of Lazap, A cross-platform Games Launcher (recent highlight)
