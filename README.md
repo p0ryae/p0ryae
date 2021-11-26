@@ -1,21 +1,12 @@
 <br />
-<h3 align="center">I'm Porya, a Full Stack Web Developer.<br /></h3>
 
-<br />
+## Hi, I'm Porya 👋
 
-**Languages and Tools:**
+### Some of my Hightlights:
 
-<img align="left" style alt="Visual Studio Code" width="30px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="html" width="30px" src="https://i.imgur.com/1VQeKGP.png" />
-<img align="left" alt="css" width="22px" src="https://i.imgur.com/Zsnk6xl.png" />
-<img align="left" alt="node.js" width="38px" src="https://i.imgur.com/tYLFZBh.png" />
-<img align="left" alt="python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img align="left" alt="C#" width="32px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
-
-<br />
-
-O**perating System:**
-- <img alt="C#" width="14px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" /> [Arch Linux](https://archlinux.org/)
-<br /><br />
+- Computer Scientist
+- Linux Mastery, Server Management and Security Certification
+- GPU Passthrough on Linux
+- Full Stack Web Developer
+- Founder of Lazap, A cross-platform Games Launcher
+- I own a YouTube channel with 5k subs and 1m views in total 
