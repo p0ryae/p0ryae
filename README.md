@@ -12,6 +12,7 @@
 ![Electron][electron]
 ![Python][python]
 ![CSharp][csharp]
+![MongoDB][mongodb]
 ![Git][git]
 ![Arch Linux][Arch]
 
@@ -26,3 +27,4 @@
 [git]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/git.png
 [arch]: https://user-images.githubusercontent.com/59381835/144502558-f67051df-4442-4866-af61-7a4b0839703f.png
 [csharp]: https://user-images.githubusercontent.com/59381835/144502978-498d9866-9df1-4420-9fef-a33003c184ed.png
+[mongodb]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png
