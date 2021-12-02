@@ -1,6 +1,6 @@
 ## Highlights
 - Full Stack Web Developer
-- Linux Mastery, Server Management and Security Certification
+- Linux Mastery, and Server Management
 - Succession with GPU Passthrough on Linux
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform Client (recent highlight)
  
