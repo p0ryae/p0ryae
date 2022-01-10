@@ -4,7 +4,8 @@
 - Succession with GPU Passthrough on Linux 
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client (Work in progress)
  
-### ***Technologies & Tools***
+ 
+### _Technologies & Tools_
 
 ![JavaScript][javascript]
 ![HTML][html]
@@ -16,8 +17,13 @@
 ![Git][git]
 ![Arch Linux][Arch]
 
-### ***Github Stats & Activity***
-![GitHub](https://github-readme-stats.vercel.app/api?username=DashCruft&theme=tokyonight)
+
+### _Github Stats & Activity_
+[![GitHub](https://github-readme-stats.vercel.app/api?username=DashCruft&theme=tokyonight)](https://github.com/DashCruft)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DashCruft&theme=tokyonight&layout=compact)](https://github.com/DashCruft)
+
+
 
 [javascript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png
 [node]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/node.png
