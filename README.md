@@ -9,6 +9,7 @@
 
 ![JavaScript][javascript]
 ![HTML][html]
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="39" height="39">
 ![Node.js][node]
 ![Electron][electron]
 ![Python][python]
