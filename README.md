@@ -8,6 +8,7 @@
 ### _Technologies & Tools_
 
 ![JavaScript][javascript]
+![CPLUSPLUS][cplusplus]
 ![HTML][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="39" height="39">
 ![Node.js][node]
@@ -35,3 +36,4 @@
 [arch]: https://user-images.githubusercontent.com/59381835/144502558-f67051df-4442-4866-af61-7a4b0839703f.png
 [csharp]: https://user-images.githubusercontent.com/59381835/144502978-498d9866-9df1-4420-9fef-a33003c184ed.png
 [mongodb]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/mongodb.png
+[cplusplus]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png
