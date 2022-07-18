@@ -5,7 +5,7 @@
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client (Work in progress)
  
  
-### _Languages & Frameworks_
+### Languages & Frameworks
 
 <code>![JavaScript][javascript]</code>
 <code><img src="http://rust-lang.org/logos/rust-logo-512x512.png" alt="CSS" width="39" height="39"></code>
