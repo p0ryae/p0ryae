@@ -1,6 +1,6 @@
 ## Highlights
 - **Full Stack** Developer
-- Linux Mastery, Expertise, and Server Management
+- Linux Expertise, and Server Manager
 - Succession with GPU Passthrough on Linux 
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client (Work in progress)
  
