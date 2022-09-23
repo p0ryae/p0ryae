@@ -1,6 +1,6 @@
 ## Highlights
 - **Full Stack** Developer
-- Software Engineering
+- Software Engineer
 - Linux Expertise, and Server Management
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client (Work in progress)
 - Developer @ LiemComputing.ca
