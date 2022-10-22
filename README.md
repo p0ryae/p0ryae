@@ -2,8 +2,7 @@
 - **Full Stack** Developer
 - Software Engineer
 - Linux Expertise, and Server Management
-- Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client (Work in progress)
-- Developer @ LiemComputing.ca
+- Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client
  
 ### Languages & Frameworks
 
