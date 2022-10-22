@@ -2,7 +2,8 @@
 - **Full Stack** Developer
 - Software Engineer
 - Linux Expertise, and Server Management
-- Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform games Client
+- Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), A cross-platform Games Client/Launcher
+- Founder of [Zeurus](https://github.com/DashCruft/Zeurus), A cross-platform blazingly fast code/text editor with Syntax Highlighting 
  
 ### Languages & Frameworks
 
