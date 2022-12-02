@@ -1,3 +1,4 @@
+
 ## Highlights
 - **Full Stack** Developer
 - Software Engineer
@@ -16,7 +17,8 @@
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="32" height="35"></code>
 
 ### Github Stats & Activity
-[![GitHub](https://github-readme-stats.vercel.app/api?username=DashCruft&show_icons=true&theme=tokyonight&&hide_border=true)](https://github.com/DashCruft)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=DashCruft&show_icons=true&theme=tokyonight&&hide_border=true&border_radius=20px)](https://github.com/DashCruft)
+
 
 [javascript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png
 [html]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/html.png
