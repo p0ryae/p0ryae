@@ -1,5 +1,3 @@
-
-## Highlights
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), a cross-platform Games Client/Launcher
 - Founder of [Zeurus](https://github.com/DashCruft/Zeurus), a cross-platform blazingly fast code/text editor with Syntax Highlighting 
  
