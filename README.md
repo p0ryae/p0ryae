@@ -1,7 +1,7 @@
 - Founder of [Lazap](https://github.com/DashCruft-Nation/lazap), a cross-platform Games Client/Launcher
 - Founder of [Zeurus](https://github.com/DashCruft/Zeurus), a cross-platform blazingly fast code/text editor with Syntax Highlighting 
  
-### Languages & Frameworks
+#### Languages & Frameworks
 
 <code>![JavaScript][javascript]</code>
 <code><img src="http://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="39" height="39"></code>
