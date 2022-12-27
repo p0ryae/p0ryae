@@ -16,9 +16,5 @@
 <code><img src="https://user-images.githubusercontent.com/59381835/144502978-498d9866-9df1-4420-9fef-a33003c184ed.png" alt="CSharp" width="35" height="35"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="32" height="35"></code>
 
-### Github Stats & Activity
-[![GitHub](https://github-readme-stats.vercel.app/api?username=DashCruft&show_icons=true&theme=tokyonight&&hide_border=true&border_radius=20px)](https://github.com/DashCruft)
-
-
 [javascript]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/javascript.png
 [html]: https://raw.githubusercontent.com/ElCholoGamer/ElCholoGamer/master/icons/html.png
